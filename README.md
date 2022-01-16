@@ -3,18 +3,8 @@
 The details of the codeset and plots are included in the attached Microsoft Word Document (.docx) file in this repository. 
 You need to view the file in "Read Mode" to see the contents properly after downloading the same.
 
-The following R packages have been utilized on this repository and attached the code as .ZIP file:
-
-    i)   spelling
-    ii)  hocr
-    iii) cld3
-    iv)  cld2
-    v)   tesseract
-    vi)  magick
-    vii) taxize
-    
-  ClD2 Package - A Brief Introduction
-  ====================================
+ClD2 Package - A Brief Introduction
+====================================
   
 CLD2 probabilistically detects over 80 languages in Unicode UTF-8 text, either plain text or HTML/XML. For mixed-language input, CLD2 returns the top three languages found and their approximate percentages of the total text bytes (e.g. 80% English and 20% French out of 1000 bytes)
 
